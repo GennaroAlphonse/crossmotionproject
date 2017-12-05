@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <Bd_Server>localhost</Bd_Server>
+  <Bd_Master>Master</Bd_Master>
+  <Bd_User>sa</Bd_User>
+  <Bd_Pass>010677</Bd_Pass>
+</Config>
